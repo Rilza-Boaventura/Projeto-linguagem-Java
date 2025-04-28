@@ -1,4 +1,4 @@
-package main.interfaces;
+package org.exemple.interfaces;
 
 public interface Conta {
     void depositar(Double valor);

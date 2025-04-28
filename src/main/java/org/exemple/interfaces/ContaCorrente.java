@@ -1,5 +1,5 @@
 
-package main.interfaces;
+package org.exemple.interfaces;
 
 public class ContaCorrente implements Conta{
     private Double saldo = 100.00;

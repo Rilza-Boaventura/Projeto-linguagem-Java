@@ -1,4 +1,4 @@
-package main.anonimas;
+package org.exemple.anonimas;
 
 public class Conta{
     public void imprimeTipoConta(){

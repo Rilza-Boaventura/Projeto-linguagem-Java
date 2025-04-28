@@ -1,6 +1,6 @@
-package main.Abstratas;
+package org.exemple.Abstratas;
 
-public class ContaPoupanca extends Abstratas.Conta {
+public class ContaPoupanca extends Conta {
     @Override
     public void imprimeExtrato(){
         System.out.println("Extrato da Conta Poupanca");
