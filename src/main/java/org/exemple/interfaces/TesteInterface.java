@@ -1,4 +1,4 @@
-package main.interfaces;
+package org.exemple.interfaces;
 
 public class TesteInterface {
     public  static void main(String[] args){

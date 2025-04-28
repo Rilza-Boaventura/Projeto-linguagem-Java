@@ -1,4 +1,4 @@
-package main.anonimas;
+package org.exemple.anonimas;
 
 public class TesteClasseAnonima {
     public static void main(String[] args){

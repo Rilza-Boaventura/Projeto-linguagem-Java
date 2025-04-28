@@ -1,4 +1,4 @@
-package main.interfaces;
+package org.exemple.interfaces;
 
 public class ContaPoupanca implements Conta{
     private  Double saldo = 100.00;

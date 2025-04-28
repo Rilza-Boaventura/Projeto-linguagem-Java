@@ -1,4 +1,4 @@
-package main.Abstratas;
+package org.exemple.Abstratas;
 
 public class TesteClasseAbstrata {
     public static void main(String[] args){
