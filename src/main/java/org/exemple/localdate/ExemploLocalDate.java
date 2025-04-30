@@ -10,6 +10,7 @@ public class ExemploLocalDate {
 
         LocalDateTime data = LocalDateTime.now();
         System.out.println("Dia da semana:" + data.getDayOfWeek().name());
+        System.out.println("Dia da semana:" + data.getDayOfWeek().ordinal());
         System.out.println("Mes:" + data.getMonthValue());
         System.out.println("Ano:" + data.getYear());
         System.out.println("Hora:" + data.getHour());
