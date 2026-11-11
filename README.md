@@ -1,5 +1,3 @@
-Se o nome correto do repositório é Projeto-linguagem-Java, você pode ajustar o início e algumas seções do README para refletir exatamente o nome do projeto:
-
 # Projeto-linguagem-Java
 
 ## 📚 Sobre o Projeto
